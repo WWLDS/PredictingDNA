@@ -13,7 +13,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/WWLDS/dna">
+  <a href="https://github.com/WWLDS/predictingDNA">
   </a>
 
   <h3 align="center">WWL DNA Predictor</h3>
@@ -21,14 +21,12 @@
   <p align="center">
     A ML algorithm that highlights patients that are likely to not attend their appointment!
     <br />
-    <a href="https://github.com/WWLDS/dna"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/WWLDS/predictingDNA"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/WWLDS/dna">View Demo</a>
+    <a href="https://github.com/WWLDS/predictingDNA/issues/new?assignees=&labels=bug&projects=&template=bugReport.md&title=">Report Bug</a>
     ·
-    <a href="https://github.com/WWLDS/dna/issues/new?assignees=&labels=bug&projects=&template=bugReport.md&title=">Report Bug</a>
-    ·
-    <a href="https://github.com/WWLDS/dna/issues/new?assignees=&labels=enhancement&projects=&template=featureRequest.md&title=">Request Feature</a>
+    <a href="https://github.com/WWLDS/predictingDNA/issues/new?assignees=&labels=enhancement&projects=&template=featureRequest.md&title=">Request Feature</a>
   </p>
 </div>
 
@@ -96,7 +94,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Thomas Ingram -  thomas.ingram@wwl.nhs.uk
 
-Project Link: [https://github.com/WWLDS/PredDNA](https://github.com/WWLDS/PredDNA)
+Project Link: [https://github.com/WWLDS/PredDNA](https://github.com/WWLDS/predictingDNA)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
